@@ -13,7 +13,7 @@ npm install
 ### 예제
 #### 실행 코드
 ```
-node index.js TestInstance NetworkOut 12 2019-09-01_00:00:00 2019-10-01_00:00:00
+node index.js TestInstance NetworkOut Megabits/sec 2019-09-01_00:00:00 2019-10-01_00:00:00
 ```
 #### 결과
 ```
