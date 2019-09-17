@@ -5,6 +5,7 @@ AWSCLI의 집계 명령어가 여러모로 쓰기 불편해서 별도로 제작�
 
 ## 설치하기
 ```
+git clone https://github.com/donghoony1/AWS-Lightsail-Traffic-Usage-Aggregation-Assistant.git
 npm install
 ```
 
