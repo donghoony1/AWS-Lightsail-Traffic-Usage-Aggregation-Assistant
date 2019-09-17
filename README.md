@@ -3,6 +3,8 @@ AWS Lightsail 인스턴스의 트래픽 사용량 집계를 돕는 간단한 Nod
 
 AWSCLI의 집계 명령어(get-instance-metric-data)가 여러모로 쓰기 불편해서 별도로 제작했습니다!
 
+*~~코드 작성 소요 시간 대략 30분~~*
+
 ## 테스트
  * [Node.js 10.16.3 LTS x64](https://nodejs.org/dist/v10.16.3/node-v10.16.3-x64.msi)
  * Windows 10 Pro 19H1 x64
