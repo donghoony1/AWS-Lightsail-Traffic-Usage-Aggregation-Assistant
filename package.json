@@ -1,0 +1,21 @@
+{
+  "name": "aws-lightsail-traffic-usage-aggregation-assistant",
+  "version": "1.0.0",
+  "description": "AWS Lightsail 인스턴스의 트래픽 사용량 집계를 돕는 간단한 Node.JS 코드입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/donghoony1/AWS-Lightsail-Traffic-Usage-Aggregation-Assistant/tree/master"
+  },
+  "keywords": [
+    "AWS"
+  ],
+  "author": "Dong-Hoon Yoo",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.529.0"
+  }
+}
