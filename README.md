@@ -12,6 +12,7 @@ AWSCLI의 집계 명령어(get-instance-metric-data)가 여러모로 쓰기 불�
 ## 설치하기
 ```
 git clone https://github.com/donghoony1/AWS-Lightsail-Traffic-Usage-Aggregation-Assistant.git
+cd AWS-Lightsail-Traffic-Usage-Aggregation-Assistant
 npm install
 ```
 
